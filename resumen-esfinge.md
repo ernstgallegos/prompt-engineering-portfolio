@@ -17,7 +17,7 @@ El resumen debe:
 - Usar ejemplos, metáforas o analogías sencillas si son necesarias para aclarar conceptos complejos.
 
 Texto a resumir:
-[Incluir aquí el texto “Los ojos de la esfinge”]
+[Incluir aquí el texto “Los ojos de la esfinge” como está publicado en estoesmicelio.substack.com]
 ```
 
 ## ✅ Output generado (ejemplo)
