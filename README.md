@@ -25,7 +25,7 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 
 ## ✍️ Autor
 
-**Ernesto Gallegos**  
-Consultor en Ciencia, Tecnología e Innovación.  
-Director de Vinculación Tecnológica en UNAHUR.  
+Soy Ernesto Gallegos y trabajo en gestión estratégica de ciencia, tecnología e innovación para el desarrollo en diversos ámbitos.  
 [github.com/ernstgallegos](https://github.com/ernstgallegos)
+[linktr.ee/ernstgallegos]
+(https://linktr.ee/ernstgallegos)
