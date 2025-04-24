@@ -20,11 +20,14 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 - [Razonamiento sobre consumo de heladera](./razonamiento-heladera.md)  
   Estimación energética con Chain of Thought y variabilidad
 
-- [Resumen educativo](./resumen-educativo.md)
+- [Resumen educativo](./resumen-educativo.md)  
   Síntesis de artículo divulgativo en lenguaje claro para secundaria
 
-- [Análisis de sentimiento](./analisis-sentimiento.md)
+- [Análisis de sentimiento](./analisis-sentimiento.md)  
   Clasificación de opiniones de usuarios en positivo, negativo o neutro, con justificación por cada caso
+
+- [Resumen interpretativo de ensayo cultural](./resumen-esfinge.md)  
+  Adaptación didáctica de un texto complejo para estudiantes de secundaria, con enfoque reflexivo y lenguaje accesible
 
 ## ✍️ Autor
 
