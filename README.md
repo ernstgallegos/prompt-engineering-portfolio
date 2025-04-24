@@ -20,12 +20,14 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 - [Razonamiento sobre consumo de heladera](./razonamiento-heladera.md)  
   Estimación energética con Chain of Thought y variabilidad
 
-- [Resumen educativo](./resumen-educativo.md)  
+- [Resumen educativo](./resumen-educativo.md)
   Síntesis de artículo divulgativo en lenguaje claro para secundaria
+
+- [Análisis de sentimiento](./analisis-sentimiento.md)
+  Clasificación de opiniones de usuarios en positivo, negativo o neutro, con justificación por cada caso
 
 ## ✍️ Autor
 
 Soy Ernesto Gallegos y trabajo en gestión estratégica de ciencia, tecnología e innovación para el desarrollo en diversos ámbitos.  
 [github.com/ernstgallegos](https://github.com/ernstgallegos)
-[linktr.ee/ernstgallegos]
-(https://linktr.ee/ernstgallegos)
+[linktr.ee/ernstgallegos](https://linktr.ee/ernstgallegos)
