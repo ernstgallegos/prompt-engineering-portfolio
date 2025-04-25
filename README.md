@@ -32,6 +32,9 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 - [Cuento de terror sobre colapso climático](./cuento-terror-colapso.md)  
   Relato breve con presencia oscura y amenaza ambiental, estilo narrativo contemporáneo con trasfondo político
 
+- [Clasificación altitudinal de países](./clasificacion-altura-paises.md)  
+  Ejercicio de análisis geográfico y estructurado por umbrales de altura, con formato de salida en CSV y enfoque analítico comparativo
+
 ## ✍️ Autor
 
 Soy Ernesto Gallegos y trabajo en gestión estratégica de ciencia, tecnología e innovación para el desarrollo en diversos ámbitos.  
