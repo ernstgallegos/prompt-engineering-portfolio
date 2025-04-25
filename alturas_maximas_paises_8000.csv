@@ -1,0 +1,195 @@
+País,Altura_máxima,Pico_principal,Sobre_5000,Sobre_6000,Sobre_7000,Sobre_8000
+Afganistán,7485,Noshaq,True,True,True,False
+Albania,2764,Monte Korab,False,False,False,False
+Alemania,2962,Zugspitze,False,False,False,False
+Andorra,2942,Coma Pedrosa,False,False,False,False
+Angola,2620,Morro de Môco,False,False,False,False
+Antigua y Barbuda,402,Boggy Peak,False,False,False,False
+Arabia Saudita,3133,Jabal Sawda,False,False,False,False
+Argelia,3003,Monte Tahat,False,False,False,False
+Argentina,6960,Aconcagua,True,True,False,False
+Armenia,4090,Monte Aragats,False,False,False,False
+Australia,2228,Monte Kosciuszko,False,False,False,False
+Austria,3798,Grossglockner,False,False,False,False
+Azerbaiyán,4466,Bazardüzü,False,False,False,False
+Bahamas,63,Mount Alvernia,False,False,False,False
+Bangladés,1052,Keokradong,False,False,False,False
+Barbados,336,Monte Hillaby,False,False,False,False
+Baréin,134,Jabal ad Dukhan,False,False,False,False
+Bélgica,694,Signal de Botrange,False,False,False,False
+Belice,1124,Doyle's Delight,False,False,False,False
+Benín,658,Monte Sokbaro,False,False,False,False
+Bielorrusia,345,Dzyarzhynskaya Hara,False,False,False,False
+Birmania,5881,Hkakabo Razi,True,False,False,False
+Bolivia,6542,Nevado Sajama,True,True,False,False
+Bosnia y Herzegovina,2386,Maglić,False,False,False,False
+Botsuana,1489,Otse Hill,False,False,False,False
+Brasil,2995,Pico da Neblina,False,False,False,False
+Brunéi,1850,Bukit Pagon,False,False,False,False
+Bulgaria,2925,Musala,False,False,False,False
+Burkina Faso,749,Tena Kourou,False,False,False,False
+Burundi,2670,Monte Heha,False,False,False,False
+Bután,7570,Gangkhar Puensum,True,True,True,False
+Cabo Verde,2829,Pico do Fogo,False,False,False,False
+Camboya,1813,Phnom Aural,False,False,False,False
+Camerún,4040,Monte Camerún,False,False,False,False
+Canadá,5959,Monte Logan,True,False,False,False
+Catar,103,Qurayn Abu al Bawl,False,False,False,False
+Chad,3415,Emi Koussi,False,False,False,False
+Chile,6893,Ojos del Salado,True,True,False,False
+China,8849,Monte Everest,True,True,True,True
+Chipre,1952,Monte Olimpo,False,False,False,False
+Ciudad del Vaticano,75,colina del Vaticano,False,False,False,False
+Colombia,5775,Pico Cristóbal Colón,True,False,False,False
+Comoras,2361,Monte Karthala,False,False,False,False
+Corea del Norte,2744,Monte Paektu,False,False,False,False
+Corea del Sur,1950,Hallasan,False,False,False,False
+Costa de Marfil,1752,Monte Nimba,False,False,False,False
+Costa Rica,3819,Cerro Chirripó,False,False,False,False
+Croacia,1831,Dinara,False,False,False,False
+Cuba,1974,Pico Turquino,False,False,False,False
+Dinamarca,171,Møllehøj,False,False,False,False
+Dominica,1447,Morne Diablotins,False,False,False,False
+Ecuador,6268,Chimborazo,True,True,False,False
+Egipto,2629,Monte Catalina,False,False,False,False
+El Salvador,2730,Cerro El Pital,False,False,False,False
+Emiratos Árabes Unidos,1910,Jebel Jais,False,False,False,False
+Eritrea,3018,Soira,False,False,False,False
+Eslovaquia,2655,Gerlachovský štít,False,False,False,False
+Eslovenia,2864,Triglav,False,False,False,False
+España,3718,Teide,False,False,False,False
+Estados Unidos,6190,Denali,True,True,False,False
+Estonia,318,Suur Munamägi,False,False,False,False
+Etiopía,4550,Ras Dashen,False,False,False,False
+Filipinas,2954,Monte Apo,False,False,False,False
+Finlandia,1324,Halti,False,False,False,False
+Fiyi,1324,Monte Tomanivi,False,False,False,False
+Francia,4807,Mont Blanc,False,False,False,False
+Gabón,1070,Monte Iboundji,False,False,False,False
+Gambia,53,Red Rock,False,False,False,False
+Georgia,5201,Shkhara,True,False,False,False
+Ghana,885,Monte Afadjato,False,False,False,False
+Granada,840,Monte Saint Catherine,False,False,False,False
+Grecia,2917,Monte Olimpo,False,False,False,False
+Guatemala,4220,Tajumulco,False,False,False,False
+Guyana,2772,Monte Roraima,False,False,False,False
+Guinea,1752,Monte Nimba,False,False,False,False
+Guinea ecuatorial,3011,Pico Basilé,False,False,False,False
+Guinea-Bisáu,300,Monte de Boé,False,False,False,False
+Haití,2680,Pic la Selle,False,False,False,False
+Honduras,2870,Cerro Las Minas,False,False,False,False
+Hungría,1014,Kékes,False,False,False,False
+India,8586,Kangchenjunga,True,True,True,True
+Indonesia,4884,Puncak Jaya,False,False,False,False
+Irak,3611,Cheekha Dar,False,False,False,False
+Irán,5610,Damavand,True,False,False,False
+Irlanda,1038,Carrauntoohil,False,False,False,False
+Islandia,2110,Hvannadalshnúkur,False,False,False,False
+Islas Marshall,10,Desconocido,False,False,False,False
+Islas Salomón,2447,Monte Popomanaseu,False,False,False,False
+Israel,2236,Monte Hermón,False,False,False,False
+Italia,4810,Mont Blanc de Courmayeur,False,False,False,False
+Jamaica,2256,Blue Mountain Peak,False,False,False,False
+Japón,3776,Monte Fuji,False,False,False,False
+Jordania,1854,Jabal Umm ad Dami,False,False,False,False
+Kazajistán,7010,Pico Khan Tengri,True,True,True,False
+Kenia,5199,Monte Kenia,True,False,False,False
+Kirguistán,7439,Pico Jengish Chokusu,True,True,True,False
+Kiribati,81,Desconocido,False,False,False,False
+Kuwait,306,Mutla Ridge,False,False,False,False
+Laos,2817,Phou Bia,False,False,False,False
+Lesoto,3482,Thabana Ntlenyana,False,False,False,False
+Letonia,312,Gaiziņkalns,False,False,False,False
+Líbano,3088,Qurnat as Sawda',False,False,False,False
+Liberia,1380,Monte Wuteve,False,False,False,False
+Libia,2267,Bikku Bitti,False,False,False,False
+Liechtenstein,2599,Grauspitz,False,False,False,False
+Lituania,294,Aukštojas Hill,False,False,False,False
+Luxemburgo,560,Kneiff,False,False,False,False
+Macedonia del Norte,2764,Monte Korab,False,False,False,False
+Madagascar,2876,Maromokotro,False,False,False,False
+Malasia,4095,Monte Kinabalu,False,False,False,False
+Malaui,3002,Monte Mulanje,False,False,False,False
+Maldivas,5,Desconocido,False,False,False,False
+Malí,1155,Monte Hombori,False,False,False,False
+Malta,253,Ta' Dmejrek,False,False,False,False
+Marruecos,4167,Jbel Toubkal,False,False,False,False
+Mauricio,828,Piton de la Petite Rivière Noire,False,False,False,False
+Mauritania,915,Kediet ej Jill,False,False,False,False
+México,5636,Pico de Orizaba,True,False,False,False
+Micronesia,791,Dolohmwar,False,False,False,False
+Moldavia,430,Bălănești Hill,False,False,False,False
+Mónaco,140,Chemin des Révoires,False,False,False,False
+Mongolia,4374,Khüiten Peak,False,False,False,False
+Montenegro,2522,Zla Kolata,False,False,False,False
+Mozambique,2436,Monte Binga,False,False,False,False
+Namibia,2573,Brandberg,False,False,False,False
+Nauru,71,Comand Ridge,False,False,False,False
+Nepal,8849,Monte Everest,True,True,True,True
+Nicaragua,2107,Mogotón,False,False,False,False
+Níger,2022,Mont Idoukal-n-Taghès,False,False,False,False
+Nigeria,2419,Chappal Waddi,False,False,False,False
+Noruega,2469,Galdhøpiggen,False,False,False,False
+Nueva Zelanda,3724,Aoraki/Mount Cook,False,False,False,False
+Omán,3028,Jebel Shams,False,False,False,False
+Países Bajos,322,Vaalserberg,False,False,False,False
+Pakistán,8611,K2,True,True,True,True
+Palaos,242,Monte Ngerchelchuus,False,False,False,False
+Panamá,3475,Volcán Barú,False,False,False,False
+Papúa Nueva Guinea,4509,Monte Wilhelm,False,False,False,False
+Paraguay,842,Cerro Peró,False,False,False,False
+Perú,6768,Huascarán,True,True,False,False
+Polonia,2499,Rysy,False,False,False,False
+Portugal,2351,Pico Mountain,False,False,False,False
+Reino Unido,1345,Ben Nevis,False,False,False,False
+República Centroafricana,1420,Monte Ngaoui,False,False,False,False
+República Checa,1602,Sněžka,False,False,False,False
+República del Congo,1020,Mont Nabemba,False,False,False,False
+República Democrática del Congo,5109,Monte Stanley,True,False,False,False
+República Dominicana,3098,Pico Duarte,False,False,False,False
+Ruanda,4507,Monte Karisimbi,False,False,False,False
+Rumanía,2544,Moldoveanu,False,False,False,False
+Rusia,5642,Monte Elbrús,True,False,False,False
+Samoa,1858,Monte Silisili,False,False,False,False
+San Cristóbal y Nieves,1156,Monte Liamuiga,False,False,False,False
+San Marino,739,Monte Titano,False,False,False,False
+San Vicente y las Granadinas,1234,La Soufrière,False,False,False,False
+Santa Lucía,950,Monte Gimie,False,False,False,False
+Santo Tomé y Príncipe,2024,Pico de Santo Tomé,False,False,False,False
+Senegal,648,Mont Agel,False,False,False,False
+Serbia,2169,Midžor,False,False,False,False
+Seychelles,905,Morne Seychellois,False,False,False,False
+Sierra Leona,1948,Monte Bintumani,False,False,False,False
+Singapur,163,Bukit Timah,False,False,False,False
+Siria,2814,Monte Hermón,False,False,False,False
+Somalia,2416,Shimbiris,False,False,False,False
+Sri Lanka,2524,Pidurutalagala,False,False,False,False
+Suazilandia,1862,Emlembe,False,False,False,False
+Sudáfrica,3482,Mafadi,False,False,False,False
+Sudán,3042,Deriba Caldera,False,False,False,False
+Sudán del Sur,3187,Kinyeti,False,False,False,False
+Suecia,2097,Kebnekaise,False,False,False,False
+Suiza,4634,Dufourspitze,False,False,False,False
+Surinam,1230,Juliana Top,False,False,False,False
+Tailandia,2565,Doi Inthanon,False,False,False,False
+Tanzania,5895,Monte Kilimanjaro,True,False,False,False
+Tayikistán,7495,Ismail Samani,True,True,True,False
+Timor Oriental,2963,Monte Ramelau,False,False,False,False
+Togo,986,Monte Agou,False,False,False,False
+Tonga,1033,Kao,False,False,False,False
+Trinidad y Tobago,940,El Cerro del Aripo,False,False,False,False
+Túnez,1544,Jebel ech Chambi,False,False,False,False
+Turkmenistán,3139,Aýrybaba,False,False,False,False
+Turquía,5137,Monte Ararat,True,False,False,False
+Tuvalu,5,Desconocido,False,False,False,False
+Ucrania,2061,Hoverla,False,False,False,False
+Uganda,5109,Monte Stanley,True,False,False,False
+Uruguay,514,Cerro Catedral,False,False,False,False
+Uzbekistán,4643,Monte Adelung,False,False,False,False
+Vanuatu,1877,Monte Tabwemasana,False,False,False,False
+Venezuela,4981,Pico Bolívar,False,False,False,False
+Vietnam,3143,Fansipan,False,False,False,False
+Yemen,3760,Jabal an Nabi Shu'ayb,False,False,False,False
+Yibuti,2028,Mousa Ali,False,False,False,False
+Zambia,2339,Monte Mafinga,False,False,False,False
+Zimbabue,2592,Monte Nyangani,False,False,False,False
