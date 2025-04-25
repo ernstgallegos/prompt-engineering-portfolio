@@ -17,7 +17,48 @@ El resumen debe:
 - Usar ejemplos, metáforas o analogías sencillas si son necesarias para aclarar conceptos complejos.
 
 Texto a resumir:
-[Incluir aquí el texto “Los ojos de la esfinge” como está publicado en estoesmicelio.substack.com]
+
+"Los ojos de la esfinge" por Micelio – 27 de abril de 2025 
+Texto original en https://estoesmicelio.substack.com/
+China ya no quiere ser la fábrica del mundo: tecnologías imperiales, cuerpos populares y la disputa por el sentido común digital
+
+La última etapa del ascenso a la hegemonía global de una superpotencia no se consuma solo en sus capacidades militares o económicas, sino en su industria cultural: infiltrar imaginarios, moldear deseos y redefinir los contornos de lo posible.
+
+Una parodia del atentado a Donald Trump publicada por una empresa china de carteles LED alcanzó una audiencia multimillonaria con velocidad inédita. No es solo viralidad: es imposición cultural sutil y persistente, donde la tecnología no solo se consume sino que altera percepciones.
+
+William Gibson dice que el futuro ya está aquí, solo que mal distribuido. Pero hay futuros que no se distribuyen: se infiltran y deforman el presente.
+
+Un adolescente ve en TikTok a un robot humanoide corriendo la maratón de Beijing. Luego, otra sugerencia: una influencer de IA ironiza sobre la política estadounidense. No importa que no sea real: produce efecto.
+
+La IA china ya no solo genera contenido: habita el tejido simbólico. Redefine no solo qué tecnologías usamos, sino cómo las entendemos y qué valores vehiculizan.
+
+Mientras Europa debate regulaciones y EE.UU. oscila entre optimismo y paranoia, China avanza con pragmatismo estatal. Empresas como DeepSeek o 01.AI compiten sin copiar el modelo de Silicon Valley. No prometen el futuro: lo ejecutan.
+
+Deng Xiaoping impulsó las "Cuatro Modernizaciones": agricultura, industria, defensa y ciencia-tecnología. Esa lógica persiste: la IA no es solo innovación, es proyecto civilizatorio.
+
+Hoy el Este produce narrativas sobre el Oeste. China no ocupa la periferia; disputa el centro simbólico. TikTok no es solo entretenimiento: es artefacto de subjetivación cultural. Las IA generativas compiten por hegemonía narrativa.
+
+También circulan contenidos donde trabajadores chinos desmitifican el lujo occidental: fábricas mostrando bolsos de USD 30 revendidos en miles. Se devela la manufactura del "aura" de las marcas.
+
+Esta contra-narrativa se viraliza justo tras las tarifas impuestas por EE.UU. a productos chinos. El contraataque no es diplomático: es viral, es cultural.
+
+En paralelo, la robotización extrema ya muestra fábricas oscuras produciendo teléfonos a un ritmo vertiginoso, mientras el discurso occidental se refugia en estereotipos sobre China.
+
+En América Latina, la precariedad convive con una potencia creativa popular. Desde los márgenes, la IA es pregunta política antes que técnica. Pensar tecnologías situadas, sensibles, es urgente.
+
+¿Puede haber una IA que entienda silencios de sobremesa o el cansancio de cuerpos no vigilados? No se trata solo de acceso, sino de producir epistemologías propias.
+
+Cada revolución tecnológica abre ventanas de redefinición. Hay que empujar esas ventanas desde abajo, con política y deseo.
+
+¿Debemos elegir entre Boston Dynamics y la competencia mecánica? ¿O podemos construir alternativas que se apoyen en nuestras propias particularidades?
+
+China ya no quiere ser la fábrica del mundo: quiere ser el mundo.
+
+¿Se puede correr esta carrera sin volverse máquina?
+¿Se puede disputar el futuro sin renunciar a la humanidad?
+Tal vez la clave esté en formular mejores preguntas.
+Y en no dejar de mirar, con respeto y rebeldía, a los ojos de la esfinge.
+
 ```
 
 ## ✅ Output generado (ejemplo)
