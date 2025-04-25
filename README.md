@@ -29,8 +29,11 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 - [Resumen interpretativo de ensayo cultural](./resumen-esfinge.md)  
   Adaptación didáctica de un texto complejo para estudiantes de secundaria, con enfoque reflexivo y lenguaje accesible
 
+- [Cuento de terror sobre colapso climático](./cuento-terror-colapso.md)  
+  Relato breve con presencia oscura y amenaza ambiental, estilo narrativo contemporáneo con trasfondo político
+
 ## ✍️ Autor
 
 Soy Ernesto Gallegos y trabajo en gestión estratégica de ciencia, tecnología e innovación para el desarrollo en diversos ámbitos.  
-[github.com/ernstgallegos](https://github.com/ernstgallegos)
+[github.com/ernstgallegos](https://github.com/ernstgallegos)  
 [linktr.ee/ernstgallegos](https://linktr.ee/ernstgallegos)
