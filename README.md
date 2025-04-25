@@ -35,6 +35,9 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 - [Clasificación altitudinal de países](./clasificacion-altura-paises.md)  
   Ejercicio de análisis geográfico y estructurado por umbrales de altura, con formato de salida en CSV y enfoque analítico comparativo
 
+- [Análisis comparativo de ensayos](./analisis-comparativo-ensayos.md)  
+  Comparación crítica de tres ensayos contemporáneos en formato tabla Markdown, orientado a análisis cultural y discursivo
+
 ## ✍️ Autor
 
 Soy Ernesto Gallegos y trabajo en gestión estratégica de ciencia, tecnología e innovación para el desarrollo en diversos ámbitos.  
