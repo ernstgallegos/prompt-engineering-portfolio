@@ -38,6 +38,9 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 - [Análisis comparativo de ensayos](./analisis-comparativo-ensayos.md)  
   Comparación crítica de tres ensayos contemporáneos en formato tabla Markdown, orientado a análisis cultural y discursivo
 
+- [Hoja de ruta para newsletter reflexivo y crítico](./hoja-ruta-newsletter-multicapa.md)  
+  Diseño de estrategia narrativa avanzada mediante prompt multicapa combinando rol, tono, estilo, público objetivo y razonamiento paso a paso
+
 ## ✍️ Autor
 
 Soy Ernesto Gallegos y trabajo en gestión estratégica de ciencia, tecnología e innovación para el desarrollo en diversos ámbitos.  
