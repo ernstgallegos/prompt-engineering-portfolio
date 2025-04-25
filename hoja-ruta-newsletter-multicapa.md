@@ -21,7 +21,7 @@ Tu tarea es generar una hoja de ruta para la creación de un newsletter con las 
 
 Tema principal a desarrollar: “Sobre la necesidad de creer en algún orden superior desde un punto de vista secular”
 ```
-## Resultado
+## ✅ Output generado
 ```
 ## 📄 Desarrollo Paso a Paso
 ### 1. Objetivo General
