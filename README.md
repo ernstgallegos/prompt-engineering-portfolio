@@ -41,6 +41,9 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 - [Hoja de ruta para newsletter reflexivo y crítico](./hoja-ruta-newsletter-multicapa.md)  
   Diseño de estrategia narrativa avanzada mediante prompt multicapa combinando rol, tono, estilo, público objetivo y razonamiento paso a paso
 
+- [Evaluación automática de resúmenes académicos](./evaluacion-outputs-congreso.md)  
+  Prompt de evaluación estructurada con criterios académicos, calificación y justificación breve en formato tabla Markdown
+
 ## ✍️ Autor
 
 Soy Ernesto Gallegos y trabajo en gestión estratégica de ciencia, tecnología e innovación para el desarrollo en diversos ámbitos.  
