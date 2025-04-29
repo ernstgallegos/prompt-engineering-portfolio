@@ -24,6 +24,43 @@ Sobre la base del texto creado en el paso anterior, generá un concepto de meme 
 
 ---
 
+## 💬 Resultado
+
+### ✅ Chiste Político
+> —Che, ¿viste que Milei ahora dice que el ajuste lo hizo la gente?  
+> —Sí, y parece que en el próximo Presupuesto va a figurar "Milagros" como fuente de financiamiento.
+
+---
+
+### ✅ Narración Expandida
+En una oficina pública desmantelada, un empleado jubilado observa su escritorio vacío con nostalgia. El cartel de "Dirección Nacional de Planificación Estratégica" cuelga torcido sobre una pared sin pintura. Entra un joven vestido de traje y con acento libertario.  
+
+—Buenas, vengo a cerrar esto —dice, sacando una lapicera con el logo de una consultora.  
+
+—¿Cerrar qué? Si ya no queda nadie —responde el viejo, sin levantarse.  
+
+—Justamente. El Estado funciona mejor así. Lo hicimos entre todos —sonríe el joven, señalando un gráfico con caída libre del gasto público.  
+
+—¿Y qué hacen con lo que ahorran?  
+
+—¡Eso lo decide el mercado! —responde el joven, mientras se lleva la cafetera del lugar “porque el mérito también es saber aprovechar las oportunidades”.  
+
+Afuera, un cartel nuevo reza: “Oficina de Coordinación de la Nada. Subsecretaría de Autoregulación Espontánea.”
+
+---
+
+### 🖼️ Meme generado
+**Formato:** NPC Wojak + "Actualización de sistema"
+
+![Meme: Oficina de Coordinación de la Nada](./meme_ajuste_milei.png)
+
+**Texto superior:** EL AJUSTE LO HIZO LA GENTE  
+**Texto inferior:** OFICINA DE COORDINACIÓN DE LA NADA
+
+**Estilo visual:** fondo gris, diseño plano, tipografía sans-serif, estética minimalista propia de memes post-irónicos.
+
+---
+
 ## 📌 Observaciones
 
 - Este chaining permite integrar prompting **humorístico + narrativo + visual**.
@@ -32,3 +69,9 @@ Sobre la base del texto creado en el paso anterior, generá un concepto de meme 
 - Puede adaptarse fácilmente para entrenamiento creativo, análisis político o branding irónico.
 
 ⚡ Ejemplo excelente de prompting encadenado con foco en producción cultural y visual desde texto.
+
+---
+
+**Licencia:** CC BY-NC-SA 4.0  
+**Creado por:** Ernesto Gallegos  
+**IA utilizada:** ChatGPT-4o + DALL·E
