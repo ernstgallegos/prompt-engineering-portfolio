@@ -1,8 +1,7 @@
 # Prompt de consultoría: Análisis FODA del newsletter "Quiero Creer"
 
-## Contexto y objetivo
+## Objetivo
 
-Este caso corresponde a la Semana 4 – Clase 3 del Curso Intensivo de Prompt Engineering Aplicado.  
 Se busca generar un prompt profesional que permita realizar un análisis FODA (Fortalezas, Oportunidades, Debilidades y Amenazas) de un proyecto de comunicación con impacto estratégico.
 
 En este caso, se analiza el newsletter "Quiero Creer", escrito por Ernesto Gallegos, como herramienta de posicionamiento profesional y fortalecimiento de marca personal.
