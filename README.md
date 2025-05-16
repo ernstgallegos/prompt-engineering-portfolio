@@ -15,6 +15,7 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 ## 🗂️ Casos incluidos
 
 
+
 - [Storytelling sobre cambio climático](./storytelling-cambio-climatico.md)  
   Tono narrativo + público juvenil + ejemplo previo de estilo
 
@@ -50,6 +51,9 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 
 - [Optimización de prompt: carta de presentación IA Generativa](./optimizacion-prompt-carta-consultor.md)  
   Proceso de refinamiento iterativo de un prompt desde una versión básica hasta un diseño profesional enfocado a resultados de alta calidad
+
+- [Prompt educativo: revoluciones industriales](./prompt-educacion-revoluciones-industriales.md)  
+  Generación de preguntas de opción múltiple con justificación para nivel secundario, adaptado a evaluación formativa en historia.
 
 ## ✍️ Autor
 
