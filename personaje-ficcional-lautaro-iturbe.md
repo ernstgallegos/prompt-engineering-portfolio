@@ -1,8 +1,7 @@
 # Prompt literario: creación de personaje transficcional con sensibilidad política y tecnológica
 
-## Contexto y objetivo
+## Objetivo
 
-Este caso corresponde a la Semana 4 – Clase 4 del Curso Intensivo de Prompt Engineering Aplicado.  
 El objetivo fue diseñar un prompt artístico para generar un personaje literario complejo, integrado a un universo narrativo transmedia situado en América Latina.
 
 La consigna combinó crítica tecnológica, espiritualidad andina y trasfondo sociopolítico contemporáneo, explorando el uso de LLMs para la creación narrativa de alto nivel conceptual.
