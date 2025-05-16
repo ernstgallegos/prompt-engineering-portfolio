@@ -1,8 +1,7 @@
 # Prompt de comunicación estratégica: Difusión del newsletter "Quiero Creer"
 
-## Contexto y objetivo
+## Objetivo
 
-Este caso forma parte de la Semana 4 – Clase 2 del Curso Intensivo de Prompt Engineering Aplicado.  
 El objetivo fue diseñar un prompt estratégico para generar una pieza de difusión clara, potente y emocionalmente resonante para un producto cultural real: el newsletter "Quiero Creer", escrito por Ernesto Gallegos.
 
 Se buscó integrar rol, tono, estilo, público y formato en un solo prompt, alineado con objetivos de marca y narrativa.
