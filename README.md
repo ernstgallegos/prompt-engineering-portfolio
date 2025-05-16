@@ -17,6 +17,7 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 
 
 
+
 - [Storytelling sobre cambio climático](./storytelling-cambio-climatico.md)  
   Tono narrativo + público juvenil + ejemplo previo de estilo
 
@@ -58,6 +59,9 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 
 - [Prompt de comunicación: difusión de "Quiero Creer"](./prompt-comunicacion-quiero-creer.md)  
   Generación de texto narrativo y persuasivo para redes sociales, orientado a un público crítico y académico, alineado a un producto cultural real.
+
+- [Análisis FODA de 'Quiero Creer'](./foda-quiero-creer.md)  
+  Evaluación estratégica del newsletter como herramienta de posicionamiento profesional, orientada a la toma de decisiones de marca personal.
 
 ## ✍️ Autor
 
