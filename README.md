@@ -16,6 +16,7 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 
 
 
+
 - [Storytelling sobre cambio climático](./storytelling-cambio-climatico.md)  
   Tono narrativo + público juvenil + ejemplo previo de estilo
 
@@ -54,6 +55,9 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 
 - [Prompt educativo: revoluciones industriales](./prompt-educacion-revoluciones-industriales.md)  
   Generación de preguntas de opción múltiple con justificación para nivel secundario, adaptado a evaluación formativa en historia.
+
+- [Prompt de comunicación: difusión de "Quiero Creer"](./prompt-comunicacion-quiero-creer.md)  
+  Generación de texto narrativo y persuasivo para redes sociales, orientado a un público crítico y académico, alineado a un producto cultural real.
 
 ## ✍️ Autor
 
