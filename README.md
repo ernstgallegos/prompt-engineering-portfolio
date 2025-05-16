@@ -18,6 +18,7 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 
 
 
+
 - [Storytelling sobre cambio climático](./storytelling-cambio-climatico.md)  
   Tono narrativo + público juvenil + ejemplo previo de estilo
 
@@ -62,6 +63,9 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 
 - [Análisis FODA de 'Quiero Creer'](./foda-quiero-creer.md)  
   Evaluación estratégica del newsletter como herramienta de posicionamiento profesional, orientada a la toma de decisiones de marca personal.
+
+- [Personaje literario transficcional: Lautaro Iturbe](./personaje-ficcional-lautaro-iturbe.md)  
+  Ficha narrativa generada mediante prompt artístico, integrando crítica tecnológica, espiritualidad andina y contexto latinoamericano contemporáneo.
 
 ## ✍️ Autor
 
