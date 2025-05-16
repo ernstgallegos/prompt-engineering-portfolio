@@ -1,8 +1,7 @@
 # Prompt educativo: Preguntas de opción múltiple sobre revoluciones industriales
 
-## Contexto y objetivo
+## Objetivo
 
-Esta actividad corresponde a la Semana 4 – Clase 1 del Curso Intensivo de Prompt Engineering Aplicado.  
 El objetivo es diseñar un prompt educativo orientado a generar una breve evaluación formativa sobre un tema curricular del nivel secundario.
 
 Se busca evaluar la capacidad de estructurar un prompt claro, con rol, nivel educativo, tono y formato definido, capaz de generar preguntas con retroalimentación inmediata para el estudiante.
