@@ -14,6 +14,7 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 
 ## 🗂️ Casos incluidos
 
+
 - [Storytelling sobre cambio climático](./storytelling-cambio-climatico.md)  
   Tono narrativo + público juvenil + ejemplo previo de estilo
 
@@ -42,7 +43,13 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
   Diseño de estrategia narrativa avanzada mediante prompt multicapa combinando rol, tono, estilo, público objetivo y razonamiento paso a paso
 
 - [Evaluación automática de resúmenes académicos](./evaluacion-outputs-congreso.md)  
-  Prompt de evaluación estructurada con criterios académicos, calificación y justificación breve en formato tabla Markdown
+  Prompt de evaluación estructurada con criterios académicos, puntuaciones y justificación breve en formato tabla Markdown
+
+- [Chaining creativo: chiste político ➝ narración ➝ meme](./chiste-politico-chaining.md)  
+  Ejemplo de encadenamiento de prompts humorístico, narrativo y visual con sensibilidad sociocultural argentina
+
+- [Optimización de prompt: carta de presentación IA Generativa](./optimizacion-prompt-carta-consultor.md)  
+  Proceso de refinamiento iterativo de un prompt desde una versión básica hasta un diseño profesional enfocado a resultados de alta calidad
 
 ## ✍️ Autor
 
