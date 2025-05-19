@@ -19,6 +19,7 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 
 
 
+
 - [Storytelling sobre cambio climático](./storytelling-cambio-climatico.md)  
   Tono narrativo + público juvenil + ejemplo previo de estilo
 
@@ -66,6 +67,9 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 
 - [Personaje literario transficcional: Lautaro Iturbe](./personaje-ficcional-lautaro-iturbe.md)  
   Ficha narrativa generada mediante prompt artístico, integrando crítica tecnológica, espiritualidad andina y contexto latinoamericano contemporáneo.
+
+- [Prompt técnico vía API: resumen cooperativas](./prompt-api-resumen-cooperativas.md)  
+  Diseño de prompt para automatización de informes ejecutivos a través de LLMs en contexto de planificación pública. Estructura lista para uso en sistema productivo o dashboard institucional.
 
 ## ✍️ Autor
 
