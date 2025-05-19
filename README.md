@@ -21,6 +21,7 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 
 
 
+
 - [Storytelling sobre cambio climático](./storytelling-cambio-climatico.md)  
   Tono narrativo + público juvenil + ejemplo previo de estilo
 
@@ -74,6 +75,9 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 
 - [Prompt para automatización en Notion: título y subtítulo de newsletter](./prompt-notion-titulo-subtitulo.md)  
   Generación automática de encabezados editoriales a partir de contenido en Notion, integrado en flujos con Zapier y OpenAI.
+
+- [Asistente curador de posteos para 'Quiero Creer'](./asistente-curador-quiero-creer.md)  
+  Microagente editorial que sugiere mejoras narrativas, de ritmo y cierre para publicaciones en redes sociales manteniendo el estilo del newsletter.
 
 ## ✍️ Autor
 
