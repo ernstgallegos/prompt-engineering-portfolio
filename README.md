@@ -22,6 +22,7 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 
 
 
+
 - [Storytelling sobre cambio climático](./storytelling-cambio-climatico.md)  
   Tono narrativo + público juvenil + ejemplo previo de estilo
 
@@ -78,6 +79,9 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 
 - [Asistente curador de posteos para 'Quiero Creer'](./asistente-curador-quiero-creer.md)  
   Microagente editorial que sugiere mejoras narrativas, de ritmo y cierre para publicaciones en redes sociales manteniendo el estilo del newsletter.
+
+- [Prompt para landing interactiva: "¿Qué estás pensando?"](./prompt-landing-quiero-creer.md)  
+  Generador de citas, preguntas y ensayos breves desde una interfaz digital, inspirado en el estilo del newsletter 'Quiero Creer'.
 
 ## ✍️ Autor
 
