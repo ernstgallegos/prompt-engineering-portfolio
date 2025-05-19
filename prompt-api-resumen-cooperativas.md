@@ -1,8 +1,6 @@
 # Prompt técnico: Generación de resumen ejecutivo para automatización vía API
 
-## Contexto y objetivo
-
-Este caso corresponde a la Semana 5 – Clase 1 del Curso Intensivo de Prompt Engineering Aplicado.
+## Objetivo
 
 El objetivo fue diseñar un prompt robusto, claro y portable para ser utilizado dentro de un sistema automatizado vía API (como OpenAI), orientado a la generación de resúmenes ejecutivos para planificación pública.
 
