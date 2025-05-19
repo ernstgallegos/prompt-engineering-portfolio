@@ -1,8 +1,6 @@
 # Prompt para producto digital: landing page reflexiva inspirada en "Quiero Creer"
 
-## Contexto y objetivo
-
-Este caso forma parte de la Semana 5 – Clase 4 del Curso Intensivo de Prompt Engineering Aplicado.
+## Objetivo
 
 El objetivo fue diseñar un prompt funcional para un producto digital (landing page o app mínima) que invite a la reflexión crítica a partir de una interacción simple: el usuario escribe lo que está pensando, y el sistema devuelve una microcomposición compuesta por una cita, una pregunta y una reflexión.
 
