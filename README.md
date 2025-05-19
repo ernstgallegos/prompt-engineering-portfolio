@@ -20,6 +20,7 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 
 
 
+
 - [Storytelling sobre cambio climático](./storytelling-cambio-climatico.md)  
   Tono narrativo + público juvenil + ejemplo previo de estilo
 
@@ -70,6 +71,9 @@ Este repositorio está organizado para mostrar distintos tipos de tareas frecuen
 
 - [Prompt técnico vía API: resumen cooperativas](./prompt-api-resumen-cooperativas.md)  
   Diseño de prompt para automatización de informes ejecutivos a través de LLMs en contexto de planificación pública. Estructura lista para uso en sistema productivo o dashboard institucional.
+
+- [Prompt para automatización en Notion: título y subtítulo de newsletter](./prompt-notion-titulo-subtitulo.md)  
+  Generación automática de encabezados editoriales a partir de contenido en Notion, integrado en flujos con Zapier y OpenAI.
 
 ## ✍️ Autor
 
