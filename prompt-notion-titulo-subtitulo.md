@@ -1,8 +1,6 @@
 # Prompt para automatización: generación de título y subtítulo desde notas en Notion
 
-## Contexto y objetivo
-
-Este caso forma parte de la Semana 5 – Clase 2 del Curso Intensivo de Prompt Engineering Aplicado.
+## Objetivo
 
 El objetivo fue diseñar un prompt para ser usado en un flujo automatizado con Notion y Zapier, orientado a la generación de encabezados (título y subtítulo) para un newsletter de pensamiento crítico y tecnológico.
 
