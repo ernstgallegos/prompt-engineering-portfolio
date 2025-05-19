@@ -1,8 +1,6 @@
 # Asistente personalizado: curador de posteos para el newsletter "Quiero Creer"
 
-## Contexto y objetivo
-
-Este caso forma parte de la Semana 5 – Clase 3 del Curso Intensivo de Prompt Engineering Aplicado.
+## Objetivo
 
 Se diseñó un asistente editorial orientado a la revisión y mejora de posteos de LinkedIn vinculados al newsletter "Quiero Creer", respetando tono, estilo y público objetivo. El agente funciona como microasistente dentro de flujos de publicación, revisando borradores antes de su publicación.
 
